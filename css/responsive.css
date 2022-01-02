@@ -1,0 +1,28 @@
+
+
+@media(max-width:768px){
+    .logo{
+        width: 10%;
+        
+    }
+    .menu{
+        width: 70%;
+    }
+    .menu nav ul li a{
+        font-size: 12px;
+    }
+    .button{
+        width: 20%;
+    }
+    .btn{
+        width: 20px;
+    }
+    .btn a .button{
+        width: 100px;
+    
+    }
+    #feature{
+        background-color: blue;
+    }
+
+}

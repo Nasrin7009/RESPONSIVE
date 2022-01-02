@@ -1,0 +1,547 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+/* header part */
+#header{
+    width: 100%;
+    float: left;
+    padding: 0px;
+    margin: 0px 0px;
+    background: #223047;
+    height: 580px;
+}
+
+
+.main-header{
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid white;
+}
+.logo{
+    width: 20%;
+    float: left;
+    padding: 15PX;
+    text-align: center;
+}
+.menu{
+    width: 60%;
+    float: left;
+    text-align: center;
+}
+.menu nav{
+
+}
+.menu nav ul{
+
+}
+.menu nav ul li{
+    display: inline-block;
+    font-size: 30px;
+}
+.menu nav ul li a{
+    margin: 50px;
+    color: black;
+    font-size:25px;
+    
+}
+
+.button{
+    width: 20%;
+    float: left;
+    text-align: center;.
+}
+.btn a button{
+    padding: 10px 10px;
+    border-radius: 20px;
+    width: 200px;
+}
+.btn img{ 
+    width: 20px;  
+}
+/* hero part  */
+.hero{
+    width: 100%;
+    float: left;
+    padding: 50px;
+    margin: 50px;
+}
+.writing-part{
+    width: 50%;
+    float: left;
+    position: relative;
+    right: 20px;
+    left: 100px;
+    font-size: 20px;
+}
+.writing-part h1{
+
+
+}
+.writing-part p{
+    position: absolute;
+    top: 120px;
+}
+.btn2{
+
+    position: absolute;
+    top: 300px;
+}
+.btn2 a button{
+    width: 200px;
+    height: 50px;
+    background-color: cyan;
+    
+    border-radius: 50px;
+}
+.btn3{
+    position: absolute;
+    top: 300px;
+    left: 210px;
+}
+.btn3 a button{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    background: transparent;
+    border: 2px solid white;
+
+}
+.img-part{
+    width:50%;
+    float: left;
+    position: relative;
+    left: 50px;
+}
+.img-part img{
+    width: 235px;
+}
+/* feature section */
+#feature{
+    width: 100%;
+    float: left;
+    position: relative;
+    top: 100px;
+
+}
+.part1{
+    width: 100%;
+    float: left;
+
+}
+.part1 h1{
+    text-align: center;
+    
+
+}
+hr{
+    width: 10%;
+    height: 2px;
+    
+    position: relative;
+    top: 50px;
+    left: 600px;
+    
+}
+.part2{
+    width: 100%;
+    float: left;
+
+}
+.btn4{
+    width: 100%;
+    float: left;
+    padding: 70px;
+    margin: 30px;
+
+}
+.icon-box{
+    width: 20%;
+    float: left;
+    text-align: center;
+    padding: 10px 10px;
+    margin: 30px;
+
+
+}
+.icon-box img{
+
+}
+.icon-box h2{
+
+}
+.icon-box p{
+
+}
+/* feature1 section */
+#feature1{
+    width: 100%;
+    float: left;
+    padding: 40px;
+
+}
+.part3{
+    width: 50%;
+    float: left;
+
+    
+    
+
+}
+.part3 img{
+    width: 80%;
+}
+.part4{
+    width: 50%;
+    float: left;
+    padding: 50px;
+    
+}
+.part4 h1{
+    margin: 10px;
+
+}
+.part4 p{
+    margin: 10px;
+
+}
+#feature2{
+    width: 100%;
+    float: left;
+    padding: 20px;
+}
+.part5{
+    width: 50%;
+    float: left;
+    padding: 40px;
+
+}
+.part5 h1{
+    text-align: right;
+    padding: 10px;
+
+}
+.part5 p{
+    padding: 0px;
+    margin: 20px;
+    text-align: justify;
+    
+
+}
+.part5 button{
+    margin: 40px;
+    position: relative;
+    left: 250px;
+}
+.part5 a button{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px ;
+    background-color: aqua;
+    font-size: 15px;
+    margin: 20px;
+    
+
+}
+.part6{
+    width: 50%;
+    float: left;
+
+}
+.part6 img{
+    width: 90%;
+}
+#feature3{
+    width: 100%;
+    float: left;
+
+}
+.part7{
+    width: 50%;
+    float: left;
+
+}
+.part7 img{
+
+}
+.part8{
+    width: 50%;
+    float: left;
+
+}
+.path-box{
+    padding: 10px;
+    box-shadow:0px 0px 10px #000000 ;
+    margin: 10px;
+    width: 70%;
+
+}
+.path-box img{
+    position: relative;
+    top: 10px;
+
+}
+.path-box h3{
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+
+}
+.path-box p{
+    position: relative;
+    left: 50px;
+
+}
+#feature4{
+    width: 100%;
+    float: left;
+    padding: 30px;
+
+}
+.part9{
+    width: 50%;
+    float: left;
+    padding: 0px;
+
+}
+.part9 h1{
+    text-align: right;
+    padding: 10px;
+    margin-right: 40px;
+
+}
+.part9 img{
+     position: relative;
+     left: 455px;
+     top: 20px;
+     z-index: 1;
+     
+    
+
+}
+.cheakbox{
+    width: 15px;
+    margin-left: 440px;
+    position: relative;
+    top: 20px; 
+    background-color: aqua;
+    
+}
+.part9 h3{
+    text-align: end;
+    margin-right: 40px;
+
+}
+.cheakbox{
+
+}
+.part9 p{
+    padding: 50px;
+    text-align: end;
+    width: 100%;
+}
+
+.part10{
+    width: 50%;
+    float: left;
+    position: relative;
+    left: 40px;
+    top: 60px;
+}
+.img1{
+    width: 16.66%;
+    float: left;
+
+}
+.img1 img{
+
+}
+.img2{
+    width: 16.66%;
+    float: left;
+
+}
+.img2 img{
+    position: absolute;
+    bottom: 5px;
+    left: 100px;
+    z-index: 6;
+
+}
+.img3{
+    width: 16.66%;
+    float: left;
+
+}
+.img3 img{
+    position: absolute;
+    right: 70px;
+}
+#feature5{
+    width: 100%;
+    float: left;
+    background: url(../img/color.png);
+}
+.part11{
+    text-align: center;
+    
+
+}
+.part11 img{
+    padding: 30px;
+    margin-top:50px;
+
+}
+.part11 h1{
+    padding: 30px;
+
+}
+.part11 p{
+    padding: 10px;
+    
+
+}
+#feature6{
+    width: 100%;
+    float: left;
+}
+.part12{
+    text-align: center;
+    padding: 100px;
+}
+.part12 h3{
+    padding: 20px;
+}
+.part12 button{
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    width: 200px;
+    background-color: aqua;
+}
+#feature7{
+    width: 100%;
+    float: left;
+    background: url(../img/color.png);
+}
+.part13{
+    text-align: center;
+    padding: 100px;
+}
+#feature8{
+    width: 100%;
+    float: left;
+}
+.part14{
+    width: 50%;
+    float: left;
+    padding: 70PX;
+    
+}
+.part14 img{
+    margin-left: 40px;
+}
+.part14 button{
+    padding: 20px;
+    border-radius: 20px;
+    width: 300px;
+    font-size: 20px;
+    background-color: aqua;
+    position: relative;
+    left: 400px;
+    
+}
+.part15{
+    width: 50%;
+    float: left;
+    padding: 50PX;
+    margin-top: 230PX;
+    position: relative;
+    right: 40px;
+
+    
+}
+.part15 h1{
+    margin-left: 15px;
+}
+
+.part15 p{
+    padding: 20px;
+    
+
+}
+.part15 img{
+    padding: 30px;
+}
+/* feature9 */
+#feature9{
+    width: 100%;
+    float: left;
+
+}
+.part16{
+    width: 100%;
+    float: left;
+}
+.list{
+    width: 20%;
+    float: left;
+    padding: 30px;
+    position: relative;
+    left: 40px;
+    right: 40px;
+
+}
+.list ul{
+    
+
+}
+.list ul li{
+    display: block;
+}
+.part17{
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 30PX;
+}
+.part17 P{
+    padding: 30px;
+}
+.part17 button{
+    border-radius: 20px;
+    padding: 20px;
+    width: 200px;
+    font-size: 20px;
+    background-color: aqua;
+}
+#footer{
+    width: 100%;
+    float: left;
+    background: url(../img/path-color.png);
+}
+.part18{
+    width: 50%;
+    float: left;
+}
+.part18 p{
+    padding: 40px;
+    font-size: 30px;
+}
+.part19{
+    width: 50%;
+    float: left;
+}
+.part19 img{
+    padding: 40px;
+    
+}
+
+
+
